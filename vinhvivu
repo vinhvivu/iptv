@@ -23,9 +23,12 @@ https://carwga553.vtvgiaitri.vn/vtv08/vtv08@1080p.m3u8
 #EXTINF:0 tvg-id="vtv9hd" group-title="🌟| VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VTV9_logo_2013_final.svg/1200px-VTV9_logo_2013_final.svg.png" tvg-chno="9", VTV9
 https://carwga553.vtvgiaitri.vn/vtv09/vtv09@1080p.m3u8
 #🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔!- 5K#
-
-#EXTINF:0 tvg-id="kplus1hd"  group-title=" 🌸CHÚC MỪNG NĂM MỚI 🌸" ,HBO
-http://gg.gg/cocak1
+#EXTINF:0  tvg-id="hbo" group-title="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png",HBO
+http://gg.gg/cocahbo
+#EXTINF:0  tvg-id="red_by_hbo" group-title="HBO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/RED_by_HBO.svg/revision/latest/scale-to-width-down/340?cb=20210104162109",Red by HBO
+http://gg.gg/cocahbored
+#EXTINF:0  tvg-id="max_by_hbo" group-title="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/1280px-HBO_Max_Logo.svg.png",Cinemax
+http://gg.gg/cocahbomax
 #EXTINF:0 tvg-id="kplusnshd"  group-title=" 🌸CHÚC MỪNG NĂM MỚI 🌸" ,SCTV9 
 http://gg.gg/cocakns
 #EXTINF:0 tvg-id="kpluspchd"  group-title=" 🌸CHÚC MỪNG NĂM MỚI 🌸", Bóng Đa TV 
@@ -589,12 +592,7 @@ http://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CINEWORLD-SD-720p/chunks.m3u8
 #EXTINF:0  tvg-id="warner_tv_hd" group-title="🌍 🇳 🇪 🇹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros_logo.svg/737px-Warner_Bros_logo.svg.png",Warner Bros
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/WANNERTV-SD-720p/chunks.m3u8
-#EXTINF:0  tvg-id="hbo" group-title="🌍 🇳 🇪 🇹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png",HBO
-http://gg.gg/cocahbo
-#EXTINF:0  tvg-id="red_by_hbo" group-title="🌍 🇳 🇪 🇹" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/RED_by_HBO.svg/revision/latest/scale-to-width-down/340?cb=20210104162109",Red by HBO
-http://gg.gg/cocahbored
-#EXTINF:0  tvg-id="max_by_hbo" group-title="🌍 🇳 🇪 🇹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/1280px-HBO_Max_Logo.svg.png",Cinemax
-http://gg.gg/cocahbomax
+
 
 #🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔! - FOX#
 
