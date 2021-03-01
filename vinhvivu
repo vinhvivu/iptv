@@ -1,36 +1,36 @@
 #🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔!- VTV#
 
-#EXTINF:0 tvg-id="vtv1hd" group-title="ðŸŒŸ| VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png" tvg-chno="1",VTV1
+#EXTINF:0 tvg-id="vtv1hd" group-title=" VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png" tvg-chno="1",VTV1
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 http://livecdn.fptplay.net/hda/vtv1hd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 tvg-id="vtv2hd" group-title="ðŸŒŸ| VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/VTV2_logo_2013_final.svg/1200px-VTV2_logo_2013_final.svg.png" tvg-chno="2",VTV2
+#EXTINF:0 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/VTV2_logo_2013_final.svg/1200px-VTV2_logo_2013_final.svg.png" tvg-chno="2",VTV2
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://livecdn.fptplay.net/hda/vtv2_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 tvg-id="vtv3hd" group-title="ðŸŒŸ| VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1200px-VTV3_logo_2013_final.svg.png" tvg-chno="3",VTV3
+#EXTINF:0 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1200px-VTV3_logo_2013_final.svg.png" tvg-chno="3",VTV3
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 http://livecdn.fptplay.net/hda/vtv3hd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 tvg-id="vtv4hd" group-title="ðŸŒŸ| VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/VTV4_logo_2013_final.svg/1200px-VTV4_logo_2013_final.svg.png" tvg-chno="4",VTV4
+#EXTINF:0 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/VTV4_logo_2013_final.svg/1200px-VTV4_logo_2013_final.svg.png" tvg-chno="4",VTV4
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://livecdn.fptplay.net/hda/vtv4_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 tvg-id="vtv5hd" group-title="ðŸŒŸ| VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1200px-VTV5_logo_2013_final.svg.png" tvg-chno="5",VTV5
+#EXTINF:0 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1200px-VTV5_logo_2013_final.svg.png" tvg-chno="5",VTV5
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 http://livecdn.fptplay.net/hda/vtv5hd_2000.stream/chunklist.m3u8
-#EXTINF:0 tvg-id="" group-title="ðŸŒŸ| VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1200px-VTV5_logo_2013_final.svg.png",VTV5| TÃ¢y Nam Bá»™
+#EXTINF:0 tvg-id="" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1200px-VTV5_logo_2013_final.svg.png",VTV5| TÃ¢y Nam Bá»™
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://vtvgolivesbd.vtvdigital.vn/08bb27b394bbebfff0ff0ff41517fc241602593234601/vtv5tnb.smil/chunklist_b1728000.m3u8
-#EXTINF:0 tvg-id="" group-title="ðŸŒŸ| VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1200px-VTV5_logo_2013_final.svg.png",VTV5| TÃ¢y NguyÃªn
+#EXTINF:0 tvg-id="" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1200px-VTV5_logo_2013_final.svg.png",VTV5| TÃ¢y NguyÃªn
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://vtvgolivesbd.vtvdigital.vn/aaccd401bbf4dc48a73895d3ca8c87331602594004638/vtv5tn.smil/chunklist_b1728000.m3u8
-#EXTINF:0 tvg-id="vtv6hd" group-title="ðŸŒŸ| VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/VTV6_logo.png" tvg-chno="6",VTV6
+#EXTINF:0 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/VTV6_logo.png" tvg-chno="6",VTV6
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://livecdn.fptplay.net/hda/vtv6hd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 tvg-id="vtv7hd" group-title="ðŸŒŸ| VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/VTV7Logo.png" tvg-chno="7",VTV7
+#EXTINF:0 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/VTV7Logo.png" tvg-chno="7",VTV7
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://livecdn.fptplay.net/hda/vtv7hd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 tvg-id="vtv8hd" group-title="ðŸŒŸ| VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/VTV8_logo.png" tvg-chno="8",VTV8
+#EXTINF:0 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/VTV8_logo.png" tvg-chno="8",VTV8
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 http://subs-livecdn.fptplay.net/hda/vtv8hd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 tvg-id="vtv9hd" group-title="ðŸŒŸ| VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VTV9_logo_2013_final.svg/1200px-VTV9_logo_2013_final.svg.png",VTV9
+#EXTINF:0 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VTV9_logo_2013_final.svg/1200px-VTV9_logo_2013_final.svg.png",VTV9
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://livecdn.fptplay.net/hda/vtv9_hls.smil/chunklist_b2500000.m3u8
 
@@ -623,96 +623,6 @@ https://livecdn.fptplay.net/sda/tuyenquang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 group-title="🏞️| Quê hương" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Logo_%C4%90%C3%A0i_PT-TH_V%C4%A9nh_Ph%C3%BAc.svg/1280px-Logo_%C4%90%C3%A0i_PT-TH_V%C4%A9nh_Ph%C3%BAc.svg.png",❤️|  Vĩnh Phúc
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://livecdn.fptplay.net/sdc/vinhphuc_hls.smil/chunklist_b2500000.m3u8
-
-#🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔! - The Cup Of Life#
-
-#EXTINF:0 group-title="🏆| The Cup Of Life", tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",FA Cup 1
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://livecdn.fptplay.net/footballassociation/facup01_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 group-title="🏆| The Cup Of Life", tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",FA Cup 2
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://livecdn.fptplay.net/footballassociation/facup02_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 group-title="🏆| The Cup Of Life", tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",FA Cup 3
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://livecdn.fptplay.net/footballassociation/facup03_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 group-title="🏆| The Cup Of Life", tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",FA Cup 4
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://livecdn.fptplay.net/footballassociation/facup04_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 group-title="🏆| The Cup Of Life", tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",FA Cup 5
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://livecdn.fptplay.net/footballassociation/facup05_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 group-title="🏆| The Cup Of Life", tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",FA Cup 6
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-http://livecdn.fptplay.net:80/footballassociation/facup06_2000.stream/chunklist.m3u8
-#EXTINF:0 group-title="🏆| The Cup Of Life", tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",FA Cup 7
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-http://livecdn.fptplay.net:80/footballassociation/facup07_2000.stream/chunklist.m3u8
-#EXTINF:0 group-title="🏆| The Cup Of Life", tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",FA Cup 8
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://livecdn.fptplay.net/footballassociation/facup08_2000.stream/chunklist.m3u8
-#EXTINF:0 group-title="🏆| The Cup Of Life", tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",FA Cup 9
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://livecdn.fptplay.net/footballassociation/facup09_2000.stream/chunklist.m3u8
-#EXTINF:0 group-title="🏆| The Cup Of Life", tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",FA Cup 10
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://livecdn.fptplay.net/footballassociation/facup10_2000.stream/chunklist.m3u8
-
-
-#EXTINF:0 group-title="🏆| The Cup Of Life", tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Serie_A_logo_%282019%29.svg/1200px-Serie_A_logo_%282019%29.svg.png", Serie A 1
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-http://livecdn.fptplay.net/tvc/seriea01_2000.stream/playlist.m3u8
-#EXTINF:0 group-title="🏆| The Cup Of Life", tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Serie_A_logo_%282019%29.svg/1200px-Serie_A_logo_%282019%29.svg.png", Serie A 2
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-http://livecdn.fptplay.net/tvc/seriea02_2000.stream/playlist.m3u8
-#EXTINF:0 group-title="🏆| The Cup Of Life", tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Serie_A_logo_%282019%29.svg/1200px-Serie_A_logo_%282019%29.svg.png", Serie A 3
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-http://livecdn.fptplay.net/tvc/seriea03_2000.stream/playlist.m3u8
-#EXTINF:0 group-title="🏆| The Cup Of Life", tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Serie_A_logo_%282019%29.svg/1200px-Serie_A_logo_%282019%29.svg.png", Serie A 4
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-http://livecdn.fptplay.net/tvc/seriea04_2000.stream/playlist.m3u8
-#EXTINF:0 group-title="🏆| The Cup Of Life", tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Serie_A_logo_%282019%29.svg/1200px-Serie_A_logo_%282019%29.svg.png", Serie A 5
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-http://livecdn.fptplay.net/tvc/seriea05_2000.stream/playlist.m3u8
-#EXTINF:0 group-title="🏆| The Cup Of Life", tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Serie_A_logo_%282019%29.svg/1200px-Serie_A_logo_%282019%29.svg.png", Serie A 6
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-http://livecdn.fptplay.net/tvc/seriea06_2000.stream/playlist.m3u8
-#EXTINF:0 group-title="🏆| The Cup Of Life", tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Serie_A_logo_%282019%29.svg/1200px-Serie_A_logo_%282019%29.svg.png", Serie A 7
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-http://livecdn.fptplay.net/tvc/seriea07_2000.stream/playlist.m3u8
-#EXTINF:0 group-title="🏆| The Cup Of Life", tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Serie_A_logo_%282019%29.svg/1200px-Serie_A_logo_%282019%29.svg.png", Serie A 8
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-http://livecdn.fptplay.net/tvc/seriea08_2000.stream/playlist.m3u8
-#EXTINF:0 group-title="🏆| The Cup Of Life", tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Serie_A_logo_%282019%29.svg/1200px-Serie_A_logo_%282019%29.svg.png", Serie A 9
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-http://livecdn.fptplay.net/tvc/seriea09_2000.stream/playlist.m3u8
-#EXTINF:0 group-title="🏆| The Cup Of Life", tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Serie_A_logo_%282019%29.svg/1200px-Serie_A_logo_%282019%29.svg.png", Serie A 10
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-http://livecdn.fptplay.net/tvc/seriea10_2000.stream/playlist.m3u8
-
-#EXTINF:0 group-title="🏆| The Cup Of Life", tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png",Sự kiện 1
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-http://livecdn.fptplay.net/tvc/sukien01_2000.stream/chunklist.m3u8
-#EXTINF:0 channelId="812" group-title="🏆| The Cup Of Life", tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png",Sự kiện 2
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-http://livecdn.fptplay.net/tvc/sukien02_2000.stream/chunklist.m3u8
-#EXTINF:0 group-title="🏆| The Cup Of Life", tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png",Sự kiện 3
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-http://livecdn.fptplay.net/tvc/sukien03_2000.stream/chunklist.m3u8
-#EXTINF:0 group-title="🏆| The Cup Of Life", tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png",Sự kiện 4 | e-Event
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://livecdn.fptplay.net/event/eventExpire_2000.stream/chunklist.m3u8
-#EXTINF:0 group-title="🏆| The Cup Of Life", tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png",Sự kiện 5 | e-Sport
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://livecdn.fptplay.net/schedule/esport01_hls.smil/playlist.m3u8
-
-
-
-
-
-
-
-
-
 
 
 #🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔! -2021#
