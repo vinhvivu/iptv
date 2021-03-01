@@ -15,10 +15,10 @@ https://livecdn.fptplay.net/hda/vtv4_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1200px-VTV5_logo_2013_final.svg.png" tvg-chno="5",VTV5
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 http://livecdn.fptplay.net/hda/vtv5hd_2000.stream/chunklist.m3u8
-#EXTINF:0 tvg-id="" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1200px-VTV5_logo_2013_final.svg.png",VTV5| TÃ¢y Nam Bá»™
+#EXTINF:0 tvg-id="" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1200px-VTV5_logo_2013_final.svg.png",VTV5| Tây Nam Bộ™
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://vtvgolivesbd.vtvdigital.vn/08bb27b394bbebfff0ff0ff41517fc241602593234601/vtv5tnb.smil/chunklist_b1728000.m3u8
-#EXTINF:0 tvg-id="" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1200px-VTV5_logo_2013_final.svg.png",VTV5| TÃ¢y NguyÃªn
+#EXTINF:0 tvg-id="" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1200px-VTV5_logo_2013_final.svg.png",VTV5| Tây Nguyên
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://vtvgolivesbd.vtvdigital.vn/aaccd401bbf4dc48a73895d3ca8c87331602594004638/vtv5tn.smil/chunklist_b1728000.m3u8
 #EXTINF:0 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/VTV6_logo.png" tvg-chno="6",VTV6
