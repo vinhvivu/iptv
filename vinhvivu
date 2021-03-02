@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://gg.gg/47shop_mytvepg" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
---------------------------------------------------------------- VTV#---------------------------------------------------------------------------------
+#--------------------------------------------------------------- VTV---------------------------------------------------------------------------------#
 
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png" tvg-chno="1",VTV1
 #EXTVLCOPT:http-user-agent="CoocaaTV"
@@ -298,7 +298,7 @@ https://livecdn.fptplay.net/event/eventExpire_2000.stream/chunklist.m3u8
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://livecdn.fptplay.net/schedule/esport01_hls.smil/playlist.m3u8
 
------------------------------------------------------------------------------ VTVcab-------------------------------------------------------------
+#----------------------------------------------------------------------------- VTVcab-------------------------------------------------------------#
 
 #EXTINF:0 tvg-id="vtvcab1_giai_tri_tv" group-title="💫| VTVcab" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Vie_Gi%E1%BA%A3i_Tr%C3%AD.png/revision/latest/scale-to-width-down/340?cb=20191126050457",VTVCab1| Vie Giải Trí
 http://quocthai.duckdns.org:18886/rtp/232.84.1.143:8832
@@ -354,7 +354,7 @@ http://quocthai.duckdns.org:18886/rtp/232.84.1.245:10344
 #EXTINF:0 tvg-id="vtvcab23_golf_hd" group-title="💫| VTVcab" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/Th%E1%BB%83_thao_TV_HD_Golf_new_logo.png/revision/latest/scale-to-width-down/340?cb=20191114130942",VTVcab23| Golf TV
 http://quocthai.duckdns.org:18886/rtp/232.84.2.246:10876
 
---------------------------------------------------------------------VTC-------------------------------------------------------------------------------
+#--------------------------------------------------------------------VTC-------------------------------------------------------------------------------#
 
 #EXTINF:0 tvg-id="vtc1" group-title="📺| VTC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/VTC1_logo_2018.svg/1200px-VTC1_logo_2018.svg.png" tvg-chno="11",VTC1| Tổng Hợp
 https://vtc130121.cdn.vnns.io/VTC1_abr/vtc130121/VTC1_abr_1080p/chunks.m3u8
@@ -390,7 +390,7 @@ https://vtc130121.cdn.vnns.io/VTC14_abr/vtc130121/VTC14_abr_1080p/chunks.m3u8
 #EXTINF:0 tvg-id="vtc16" group-title="📺| VTC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/3NTV_%28VTC16_old%29_logo.png/revision/latest/top-crop/width/220/height/220?cb=20191011034206" tvg-chno="116",VTC16| 3N TV
 https://vtc130121.cdn.vnns.io/VTC16_abr/vtc130121/VTC16_abr_1080p/chunks.m3u8
 
--------------------------------------------------------------------- HTV---------------------------------------------------------------------
+#-------------------------------------------------------------------- HTV---------------------------------------------------------------------#
 
 #EXTINF:0 tvg-id="htv1" group-title="🌇| HTV" tvg-logo="https://htvc.vn/uploads/editor/images/Logo%20Kenh/logo_HTV1_422x278.png" tvg-chno="21",HTV1
 #EXTVLCOPT:http-user-agent="CoocaaTV"
@@ -438,7 +438,7 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FBNC-HD-1080p/playlist.m3u8
 #EXTINF:0 tvg-id="htvc_vgs_shop" group-title="🌇| HTV" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/08/02/265341-logo_htvc_shopping.png" tvg-chno="28",HTVC| VGS Shopping
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HOMESHOPPING-SD-ABR/HTV-ABR/HOMESHOPPING-SD-720p/chunks.m3u8
 
--------------------------------------------------------------- Tôi yêu Việt Nam#-------------------------------------------------------------------------
+#-------------------------------------------------------------- Tôi yêu Việt Nam-------------------------------------------------------------------------#
 
 #EXTINF:0 tvg-id="vovtv"  group-title="👨‍👨‍👧‍👦| Tôi yêu 🇻🇳" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Logo_VOV.svg/1200px-Logo_VOV.svg.png",VOV| Đài Tiếng Nói Việt Nam
 http://mediatech.vncdn.vn/vovlive/tv1live.m3u8
@@ -455,7 +455,7 @@ https://livecdn.fptplay.net/sdc/quocphongvnhd_hls.smil/chunklist_b2800000.m3u8
 #EXTINF:0 tvg-id="quoc_hoi_tv"  group-title="👨‍👨‍👧‍👦| Tôi yêu 🇻🇳" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/1/17/KenhQuocHoi_logo.png",Quốc Hội TV
 http://36.37.252.114:888/Apple/OneTV-106/playlist.m3u8
 
------------------------------------------------------------------Quê hương-------------------------------------------------------------------
+#-----------------------------------------------------------------Quê hương-------------------------------------------------------------------#
 
 #EXTINF:0 tvg-id="hanoitv1" group-title="🏞️| Quê hương", tvg-logo="https://upload.wikimedia.org/wikipedia/vi/6/6a/Hanoitv.png",❤️|  Hà Nội 1
 http://cdn.hntv.mediatech.vn/hntvlive/tv1live.m3u8
@@ -487,7 +487,7 @@ http://qtv.vncdn.vn/qtvlive/tv3live.m3u8
 #EXTINF:0 tvg-id="" group-title="🏞️| Quê hương", tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f2/BPTV_1997.png/revision/latest?cb=20200819145628&path-prefix=vi",💙| Bình Phước 1
 https://live.baobinhphuoc.com.vn/bptvlive/tv1live.m3u8
 
----------------------------------------------------------------------TH Miền Đông-------------------------------------------------------------------------------
+#---------------------------------------------------------------------TH Miền Đông-------------------------------------------------------------------------------#
 
 #EXTINF:0 group-title="🏞️| Quê hương" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d5/BPTV2_Home_TV.png/revision/latest/scale-to-width-down/340?cb=20200828114705&path-prefix=vi",💙| Bình Phước 2 - Home TV
 #EXTVLCOPT:http-user-agent="CoocaaTV"
@@ -526,7 +526,7 @@ https://livecdn.fptplay.net/sda/tayninhhd_hls.smil/chunklist_b2500000.m3u8
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://livecdn.fptplay.net/sdc/bariavungtau_hls.smil/chunklist_b2800000.m3u8
 
------------------------------------------------------------------------TH Miền Tây-----------------------------------------------------------------------
+#-----------------------------------------------------------------------TH Miền Tây-----------------------------------------------------------------------#
 
 #EXTINF:0 tvg-id="vinhlong1hd" group-title="🏞️| Quê hương", tvg-logo="https://upload.wikimedia.org/wikipedia/vi/archive/d/d2/20191203102140%21THVL_Logo.png",💚| Vĩnh Long 1
 #EXTVLCOPT:http-user-agent="CoocaaTV"
@@ -580,7 +580,7 @@ https://livecdn.fptplay.net/sda/tiengiang_hls.smil/chunklist_b2500000.m3u8
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://livecdn.fptplay.net/sdc/travinh_hls.smil/chunklist_b2500000.m3u8
 
------------------------------------------------------------------------TH Miền Trung-----------------------------------------------------------------------
+#-----------------------------------------------------------------------TH Miền Trung-----------------------------------------------------------------------#
 
 #EXTINF:0 group-title="🏞️| Quê hương" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/BTV_Binh_Dinh_Logo_4-3.png/revision/latest?cb=20200729002318",🧡| Bình Định
 #EXTVLCOPT:http-user-agent="CoocaaTV"
@@ -633,7 +633,7 @@ https://livecdn.fptplay.net/sdc/hatinh_hls.smil/chunklist_b2500000.m3u8
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://livecdn.fptplay.net/sdc/hue_hls.smil/chunklist_b2500000.m3u8
 
------------------------------------------------------------------------TH Miền Bắc------------------------------------------------------------
+#-----------------------------------------------------------------------TH Miền Bắc------------------------------------------------------------#
 
 #EXTINF:0 group-title="🏞️| Quê hương" tvg-logo="https://lh3.googleusercontent.com/proxy/1vdJcs2BMUtblLJDQO-5_5p7WLLKuidTMVyYiNFgOx0T7gWa25E6nv0brolK8-q0UqAlv0iboozshyzRxkx-IYJCqM3CPtLjc3nXy9LUEXnGQuZsR05qbQW7KzjrP7EnU0_sMK6g",❤️|  Bắc Kạn
 http://113.160.162.131:8080/tv/bk.m3u8
@@ -694,7 +694,7 @@ https://livecdn.fptplay.net/sda/tuyenquang_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/sdc/vinhphuc_hls.smil/chunklist_b2500000.m3u8
 
 
------------------------------------------------------------------------HBO-----------------------------------------------------------------------
+#-----------------------------------------------------------------------HBO-----------------------------------------------------------------------#
 
 #EXTINF:0 group-title= "❣️2️⃣0️⃣2️⃣1️⃣❣️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/1200px-FPT_logo_2010.svg.png",HBO
 http://58.186.179.103:4022/udp/225.1.4.90:30120
