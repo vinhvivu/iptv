@@ -215,89 +215,6 @@ http://gg.gg/cocabtv5
 #EXTINF:-1 tvg-id="sctv_phim_tong_hop" group-title="🍜| SCTV " tvg-logo="https://static.wikia.nocookie.net/logos/images/2/22/SCTV_PTH_LOGO_2017.png/revision/latest/scale-to-width-down/340?cb=20201206083511&path-prefix=vi",SCTV Phim Tổng Hợp
 http://gg.gg/cocasctvpth
 
-
-#====================================================================Fpt Sự kiện==================================================================================#
-
-
-#EXTINF:0 group-title="🏆| The Cup Of Life", tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",FA Cup 1
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://livecdn.fptplay.net/footballassociation/facup01_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 group-title="🏆| The Cup Of Life", tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",FA Cup 2
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://livecdn.fptplay.net/footballassociation/facup02_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 group-title="🏆| The Cup Of Life", tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",FA Cup 3
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://livecdn.fptplay.net/footballassociation/facup03_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 group-title="🏆| The Cup Of Life", tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",FA Cup 4
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://livecdn.fptplay.net/footballassociation/facup04_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 group-title="🏆| The Cup Of Life", tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",FA Cup 5
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://livecdn.fptplay.net/footballassociation/facup05_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 group-title="🏆| The Cup Of Life", tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",FA Cup 6
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-http://livecdn.fptplay.net:80/footballassociation/facup06_2000.stream/chunklist.m3u8
-#EXTINF:0 group-title="🏆| The Cup Of Life", tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",FA Cup 7
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-http://livecdn.fptplay.net:80/footballassociation/facup07_2000.stream/chunklist.m3u8
-#EXTINF:0 group-title="🏆| The Cup Of Life", tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",FA Cup 8
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://livecdn.fptplay.net/footballassociation/facup08_2000.stream/chunklist.m3u8
-#EXTINF:0 group-title="🏆| The Cup Of Life", tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",FA Cup 9
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://livecdn.fptplay.net/footballassociation/facup09_2000.stream/chunklist.m3u8
-#EXTINF:0 group-title="🏆| The Cup Of Life", tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",FA Cup 10
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://livecdn.fptplay.net/footballassociation/facup10_2000.stream/chunklist.m3u8
-
-
-#EXTINF:0 group-title="🏆| The Cup Of Life", tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Serie_A_logo_%282019%29.svg/1200px-Serie_A_logo_%282019%29.svg.png", Serie A 1
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-http://livecdn.fptplay.net/tvc/seriea01_2000.stream/playlist.m3u8
-#EXTINF:0 group-title="🏆| The Cup Of Life", tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Serie_A_logo_%282019%29.svg/1200px-Serie_A_logo_%282019%29.svg.png", Serie A 2
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-http://livecdn.fptplay.net/tvc/seriea02_2000.stream/playlist.m3u8
-#EXTINF:0 group-title="🏆| The Cup Of Life", tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Serie_A_logo_%282019%29.svg/1200px-Serie_A_logo_%282019%29.svg.png", Serie A 3
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-http://livecdn.fptplay.net/tvc/seriea03_2000.stream/playlist.m3u8
-#EXTINF:0 group-title="🏆| The Cup Of Life", tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Serie_A_logo_%282019%29.svg/1200px-Serie_A_logo_%282019%29.svg.png", Serie A 4
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-http://livecdn.fptplay.net/tvc/seriea04_2000.stream/playlist.m3u8
-#EXTINF:0 group-title="🏆| The Cup Of Life", tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Serie_A_logo_%282019%29.svg/1200px-Serie_A_logo_%282019%29.svg.png", Serie A 5
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-http://livecdn.fptplay.net/tvc/seriea05_2000.stream/playlist.m3u8
-#EXTINF:0 group-title="🏆| The Cup Of Life", tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Serie_A_logo_%282019%29.svg/1200px-Serie_A_logo_%282019%29.svg.png", Serie A 6
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-http://livecdn.fptplay.net/tvc/seriea06_2000.stream/playlist.m3u8
-#EXTINF:0 group-title="🏆| The Cup Of Life", tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Serie_A_logo_%282019%29.svg/1200px-Serie_A_logo_%282019%29.svg.png", Serie A 7
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-http://livecdn.fptplay.net/tvc/seriea07_2000.stream/playlist.m3u8
-#EXTINF:0 group-title="🏆| The Cup Of Life", tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Serie_A_logo_%282019%29.svg/1200px-Serie_A_logo_%282019%29.svg.png", Serie A 8
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-http://livecdn.fptplay.net/tvc/seriea08_2000.stream/playlist.m3u8
-#EXTINF:0 group-title="🏆| The Cup Of Life", tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Serie_A_logo_%282019%29.svg/1200px-Serie_A_logo_%282019%29.svg.png", Serie A 9
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-http://livecdn.fptplay.net/tvc/seriea09_2000.stream/playlist.m3u8
-#EXTINF:0 group-title="🏆| The Cup Of Life", tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Serie_A_logo_%282019%29.svg/1200px-Serie_A_logo_%282019%29.svg.png", Serie A 10
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-http://livecdn.fptplay.net/tvc/seriea10_2000.stream/playlist.m3u8
-
-#EXTINF:0 group-title="🏆| The Cup Of Life", tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png",Sự kiện 1
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-http://livecdn.fptplay.net/tvc/sukien01_2000.stream/chunklist.m3u8
-#EXTINF:0 channelId="812" group-title="🏆| The Cup Of Life", tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png",Sự kiện 2
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-http://livecdn.fptplay.net/tvc/sukien02_2000.stream/chunklist.m3u8
-#EXTINF:0 group-title="🏆| The Cup Of Life", tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png",Sự kiện 3
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-http://livecdn.fptplay.net/tvc/sukien03_2000.stream/chunklist.m3u8
-#EXTINF:0 group-title="🏆| The Cup Of Life", tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png",Sự kiện 4 | e-Event
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://livecdn.fptplay.net/event/eventExpire_2000.stream/chunklist.m3u8
-#EXTINF:0 group-title="🏆| The Cup Of Life", tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png",Sự kiện 5 | e-Sport
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://livecdn.fptplay.net/schedule/esport01_hls.smil/playlist.m3u8
-
 #----------------------------------------------------------------------------- VTVcab-------------------------------------------------------------#
 
 #EXTINF:0 tvg-id="vtvcab1_giai_tri_tv" group-title="💫| VTVcab" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Vie_Gi%E1%BA%A3i_Tr%C3%AD.png/revision/latest/scale-to-width-down/340?cb=20191126050457",VTVCab1| Vie Giải Trí
@@ -437,6 +354,90 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FBNC-HD-1080p/playlist.m3u8
 #EXTINF:0 tvg-id="htvc_vgs_shop" group-title="🌇| HTV" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/08/02/265341-logo_htvc_shopping.png" tvg-chno="28",HTVC| VGS Shopping
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HOMESHOPPING-SD-ABR/HTV-ABR/HOMESHOPPING-SD-720p/chunks.m3u8
+
+#====================================================================Fpt Sự kiện==================================================================================#
+
+
+#EXTINF:0 group-title="🏆| The Cup Of Life", tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",FA Cup 1
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://livecdn.fptplay.net/footballassociation/facup01_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 group-title="🏆| The Cup Of Life", tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",FA Cup 2
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://livecdn.fptplay.net/footballassociation/facup02_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 group-title="🏆| The Cup Of Life", tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",FA Cup 3
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://livecdn.fptplay.net/footballassociation/facup03_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 group-title="🏆| The Cup Of Life", tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",FA Cup 4
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://livecdn.fptplay.net/footballassociation/facup04_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 group-title="🏆| The Cup Of Life", tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",FA Cup 5
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://livecdn.fptplay.net/footballassociation/facup05_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 group-title="🏆| The Cup Of Life", tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",FA Cup 6
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+http://livecdn.fptplay.net:80/footballassociation/facup06_2000.stream/chunklist.m3u8
+#EXTINF:0 group-title="🏆| The Cup Of Life", tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",FA Cup 7
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+http://livecdn.fptplay.net:80/footballassociation/facup07_2000.stream/chunklist.m3u8
+#EXTINF:0 group-title="🏆| The Cup Of Life", tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",FA Cup 8
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://livecdn.fptplay.net/footballassociation/facup08_2000.stream/chunklist.m3u8
+#EXTINF:0 group-title="🏆| The Cup Of Life", tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",FA Cup 9
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://livecdn.fptplay.net/footballassociation/facup09_2000.stream/chunklist.m3u8
+#EXTINF:0 group-title="🏆| The Cup Of Life", tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",FA Cup 10
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://livecdn.fptplay.net/footballassociation/facup10_2000.stream/chunklist.m3u8
+
+
+#EXTINF:0 group-title="🏆| The Cup Of Life", tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Serie_A_logo_%282019%29.svg/1200px-Serie_A_logo_%282019%29.svg.png", Serie A 1
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+http://livecdn.fptplay.net/tvc/seriea01_2000.stream/playlist.m3u8
+#EXTINF:0 group-title="🏆| The Cup Of Life", tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Serie_A_logo_%282019%29.svg/1200px-Serie_A_logo_%282019%29.svg.png", Serie A 2
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+http://livecdn.fptplay.net/tvc/seriea02_2000.stream/playlist.m3u8
+#EXTINF:0 group-title="🏆| The Cup Of Life", tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Serie_A_logo_%282019%29.svg/1200px-Serie_A_logo_%282019%29.svg.png", Serie A 3
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+http://livecdn.fptplay.net/tvc/seriea03_2000.stream/playlist.m3u8
+#EXTINF:0 group-title="🏆| The Cup Of Life", tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Serie_A_logo_%282019%29.svg/1200px-Serie_A_logo_%282019%29.svg.png", Serie A 4
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+http://livecdn.fptplay.net/tvc/seriea04_2000.stream/playlist.m3u8
+#EXTINF:0 group-title="🏆| The Cup Of Life", tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Serie_A_logo_%282019%29.svg/1200px-Serie_A_logo_%282019%29.svg.png", Serie A 5
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+http://livecdn.fptplay.net/tvc/seriea05_2000.stream/playlist.m3u8
+#EXTINF:0 group-title="🏆| The Cup Of Life", tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Serie_A_logo_%282019%29.svg/1200px-Serie_A_logo_%282019%29.svg.png", Serie A 6
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+http://livecdn.fptplay.net/tvc/seriea06_2000.stream/playlist.m3u8
+#EXTINF:0 group-title="🏆| The Cup Of Life", tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Serie_A_logo_%282019%29.svg/1200px-Serie_A_logo_%282019%29.svg.png", Serie A 7
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+http://livecdn.fptplay.net/tvc/seriea07_2000.stream/playlist.m3u8
+#EXTINF:0 group-title="🏆| The Cup Of Life", tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Serie_A_logo_%282019%29.svg/1200px-Serie_A_logo_%282019%29.svg.png", Serie A 8
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+http://livecdn.fptplay.net/tvc/seriea08_2000.stream/playlist.m3u8
+#EXTINF:0 group-title="🏆| The Cup Of Life", tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Serie_A_logo_%282019%29.svg/1200px-Serie_A_logo_%282019%29.svg.png", Serie A 9
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+http://livecdn.fptplay.net/tvc/seriea09_2000.stream/playlist.m3u8
+#EXTINF:0 group-title="🏆| The Cup Of Life", tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Serie_A_logo_%282019%29.svg/1200px-Serie_A_logo_%282019%29.svg.png", Serie A 10
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+http://livecdn.fptplay.net/tvc/seriea10_2000.stream/playlist.m3u8
+
+#EXTINF:0 group-title="🏆| The Cup Of Life", tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png",Sự kiện 1
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+http://livecdn.fptplay.net/tvc/sukien01_2000.stream/chunklist.m3u8
+#EXTINF:0 channelId="812" group-title="🏆| The Cup Of Life", tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png",Sự kiện 2
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+http://livecdn.fptplay.net/tvc/sukien02_2000.stream/chunklist.m3u8
+#EXTINF:0 group-title="🏆| The Cup Of Life", tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png",Sự kiện 3
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+http://livecdn.fptplay.net/tvc/sukien03_2000.stream/chunklist.m3u8
+#EXTINF:0 group-title="🏆| The Cup Of Life", tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png",Sự kiện 4 | e-Event
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://livecdn.fptplay.net/event/eventExpire_2000.stream/chunklist.m3u8
+#EXTINF:0 group-title="🏆| The Cup Of Life", tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png",Sự kiện 5 | e-Sport
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://livecdn.fptplay.net/schedule/esport01_hls.smil/playlist.m3u8
+
+
 
 #-------------------------------------------------------------- Tôi yêu Việt Nam-------------------------------------------------------------------------#
 
