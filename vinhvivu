@@ -717,30 +717,6 @@ https://livecdn.fptplay.net/sda/tuyenquang_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/sdc/vinhphuc_hls.smil/chunklist_b2500000.m3u8
 
 
-#-----------------------------------------------------------------------HBO-----------------------------------------------------------------------#
 
-#EXTINF:0 group-title= "HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/1200px-FPT_logo_2010.svg.png",HBO
-http://58.186.179.103:4022/udp/225.1.4.90:30120
-#EXTINF:0 group-title= "HBO"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/1200px-FPT_logo_2010.svg.png",Red by HBO
-http://58.186.179.103:4022/udp/225.1.1.93:30120
-#EXTINF:0 group-title= "HBO"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/1200px-FPT_logo_2010.svg.png",Max by HBO
-http://58.186.179.103:4022/udp/225.1.2.86:30120
-#EXTINF:0 group-title= "HBO"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/1200px-FPT_logo_2010.svg.png",Disney Channel
-http://58.186.179.103:4022/udp/225.1.2.158:30120
-#EXTINF:0 group-title= "HBO"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/1200px-FPT_logo_2010.svg.png",Disney Junior
-http://58.186.179.103:4022/udp/225.1.1.233:30120
-#EXTINF:0 tvg-id="dreamwork" group-title= "HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg/1200px-DreamWorks_Animation_SKG_logo_with_fishing_boy.svg.png",DreamWork
-http://quangvinh997.duckdns.org:8889/udp/225.1.1.136:30120
-
-#EXTINF:0 tvg-id="hbo" group-title= "HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/6/65/VNPT_Logo.svg/1200px-VNPT_Logo.svg.png",HBO
-http://quocthai.duckdns.org:18886/rtp/232.84.3.101:10648
-#EXTINF:0 tvg-id="red_by_hbo"  group-title= "HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/6/65/VNPT_Logo.svg/1200px-VNPT_Logo.svg.png",Red by HBO
-http://quocthai.duckdns.org:18886/rtp/232.84.3.103:10840
-#EXTINF:0 tvg-id="max_by_hbo"  group-title= "HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/6/65/VNPT_Logo.svg/1200px-VNPT_Logo.svg.png",Max by HBO
-http://quocthai.duckdns.org:18886/rtp/232.84.3.117:10654
-#EXTINF:0 tvg-id="disney"  group-title= "HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/6/65/VNPT_Logo.svg/1200px-VNPT_Logo.svg.png",Disney Channel
-http://quocthai.duckdns.org:18886/rtp/232.84.2.143:10678
-#EXTINF:0 tvg-id="disneyjunior"  group-title= "HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/6/65/VNPT_Logo.svg/1200px-VNPT_Logo.svg.png",Disney Junior
-http://quocthai.duckdns.org:18886/rtp/232.84.1.90:10398
 
 
