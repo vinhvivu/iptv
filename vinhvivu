@@ -53,15 +53,37 @@ https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF:0 tvg-id="fox_sports3" group-title="Thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png",FOX Sport 3
 https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 
+#-----------------------------------------------------------------------HBO-----------------------------------------------------------------------#
+
+#EXTINF:0 group-title= "HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/1200px-FPT_logo_2010.svg.png",HBO
+http://58.186.179.103:4022/udp/225.1.4.90:30120
+#EXTINF:0 group-title= "HBO"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/1200px-FPT_logo_2010.svg.png",Red by HBO
+http://58.186.179.103:4022/udp/225.1.1.93:30120
+#EXTINF:0 group-title= "HBO"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/1200px-FPT_logo_2010.svg.png",Max by HBO
+http://58.186.179.103:4022/udp/225.1.2.86:30120
+#EXTINF:0 group-title= "HBO"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/1200px-FPT_logo_2010.svg.png",Disney Channel
+http://58.186.179.103:4022/udp/225.1.2.158:30120
+#EXTINF:0 group-title= "HBO"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/1200px-FPT_logo_2010.svg.png",Disney Junior
+http://58.186.179.103:4022/udp/225.1.1.233:30120
+#EXTINF:0 tvg-id="dreamwork" group-title= "HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg/1200px-DreamWorks_Animation_SKG_logo_with_fishing_boy.svg.png",DreamWork
+http://quangvinh997.duckdns.org:8889/udp/225.1.1.136:30120
+
+#EXTINF:0 tvg-id="hbo" group-title= "HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/6/65/VNPT_Logo.svg/1200px-VNPT_Logo.svg.png",HBO
+http://quocthai.duckdns.org:18886/rtp/232.84.3.101:10648
+#EXTINF:0 tvg-id="red_by_hbo"  group-title= "HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/6/65/VNPT_Logo.svg/1200px-VNPT_Logo.svg.png",Red by HBO
+http://quocthai.duckdns.org:18886/rtp/232.84.3.103:10840
+#EXTINF:0 tvg-id="max_by_hbo"  group-title= "HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/6/65/VNPT_Logo.svg/1200px-VNPT_Logo.svg.png",Max by HBO
+http://quocthai.duckdns.org:18886/rtp/232.84.3.117:10654
+#EXTINF:0 tvg-id="disney"  group-title= "HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/6/65/VNPT_Logo.svg/1200px-VNPT_Logo.svg.png",Disney Channel
+http://quocthai.duckdns.org:18886/rtp/232.84.2.143:10678
+#EXTINF:0 tvg-id="disneyjunior"  group-title= "HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/6/65/VNPT_Logo.svg/1200px-VNPT_Logo.svg.png",Disney Junior
+http://quocthai.duckdns.org:18886/rtp/232.84.1.90:10398
+
+
 #===========================================================================Quốc tế 🌍 🇳 🇪 🇹==========================================================#
 
 
-#EXTINF:0  tvg-id="hbo" group-title="🌍 🇳 🇪 🇹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png",HBO
-http://gg.gg/cocahbo
-#EXTINF:0  tvg-id="red_by_hbo" group-title="🌍 🇳 🇪 🇹" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/RED_by_HBO.svg/revision/latest/scale-to-width-down/340?cb=20210104162109",Red by HBO
-http://gg.gg/cocahbored
-#EXTINF:0  tvg-id="max_by_hbo" group-title="🌍 🇳 🇪 🇹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/1280px-HBO_Max_Logo.svg.png",Cinemax
-http://gg.gg/cocahbomax
+
 #EXTINF:0 tvg-id="foxhd" group-title="🌍 🇳 🇪 🇹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/FOX_HD.svg/1280px-FOX_HD.svg.png",FOX
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
 #EXTINF:0 tvg-id="foxlifehd" group-title="🌍 🇳 🇪 🇹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Fox-Life.png",FOX Life
