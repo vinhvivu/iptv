@@ -55,18 +55,7 @@ https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 
 #-----------------------------------------------------------------------HBO-----------------------------------------------------------------------#
 
-#EXTINF:0 group-title= "HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/1200px-FPT_logo_2010.svg.png",HBO
-http://58.186.179.103:4022/udp/225.1.4.90:30120
-#EXTINF:0 group-title= "HBO"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/1200px-FPT_logo_2010.svg.png",Red by HBO
-http://58.186.179.103:4022/udp/225.1.1.93:30120
-#EXTINF:0 group-title= "HBO"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/1200px-FPT_logo_2010.svg.png",Max by HBO
-http://58.186.179.103:4022/udp/225.1.2.86:30120
-#EXTINF:0 group-title= "HBO"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/1200px-FPT_logo_2010.svg.png",Disney Channel
-http://58.186.179.103:4022/udp/225.1.2.158:30120
-#EXTINF:0 group-title= "HBO"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/1200px-FPT_logo_2010.svg.png",Disney Junior
-http://58.186.179.103:4022/udp/225.1.1.233:30120
-#EXTINF:0 tvg-id="dreamwork" group-title= "HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg/1200px-DreamWorks_Animation_SKG_logo_with_fishing_boy.svg.png",DreamWork
-http://quangvinh997.duckdns.org:8889/udp/225.1.1.136:30120
+
 
 #EXTINF:0 tvg-id="hbo" group-title= "HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/6/65/VNPT_Logo.svg/1200px-VNPT_Logo.svg.png",HBO
 http://quocthai.duckdns.org:18886/rtp/232.84.3.101:10648
