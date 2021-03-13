@@ -51,7 +51,17 @@ https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 #EXTINF:0 tvg-id="foxsports2hd" group-title="Thể thao" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Fox_Sports_2_Logo.svg/revision/latest/scale-to-width-down/340?cb=20160413213908",FOX Sport 2
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF:0 tvg-id="fox_sports3" group-title="Thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png",FOX Sport 3
-https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
+https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8 
+
+#EXTINF:-1, tvg-id="Thể thao" tvg-logo="https://mondaycareer.com/wp-content/uploads/2020/10/32.-%E1%BA%A2nh-Logo-b%C3%B3ng-%C4%91%C3%A1-t%E1%BB%B1-l%C3%A0m-1024x1024.png". tvg-name="VTVcab16 - BÓNG ĐÁ HD"  group-title="Trực tiếp", LIVE 1 
+https://hls1.sanbong.tv/hls/stream_server_1.m3u8?token=1LQsS3LxOkOwpx_Fui3Cuw&fbclid=IwAR1Ic_WCyesU2uBgxNuufmtmmL3BykFap0iCcp7I53xvrtVnRxAgnX4E9jc
+
+#EXTINF:-1, tvg-id="Thể thao" tvg-logo="https://mondaycareer.com/wp-content/uploads/2020/10/32.-%E1%BA%A2nh-Logo-b%C3%B3ng-%C4%91%C3%A1-t%E1%BB%B1-l%C3%A0m-1024x1024.png". tvg-name="VTVcab16 - BÓNG ĐÁ HD"  group-title="Trực tiếp", LIVE 2
+http://thatslife.cf/stream/channelid/830135101?ticket=6287B58B3A4C0F1B2C7184A9C8A3999CBCA017EB&profile=pass
+
+#EXTINF:-1, tvg-id="Thể thao" tvg-logo="https://mondaycareer.com/wp-content/uploads/2020/10/32.-%E1%BA%A2nh-Logo-b%C3%B3ng-%C4%91%C3%A1-t%E1%BB%B1-l%C3%A0m-1024x1024.png". tvg-name="VTVcab16 - BÓNG ĐÁ HD"  group-title="Trực tiếp", LIVE 3
+https://live2.bongdatructuyen.vip/e80a715df7fe5f5b9b9ba2cc87942ac91615642392/S15/chunklist.m3u8
+
 
 #-----------------------------------------------------------------------HBO-----------------------------------------------------------------------#
 
