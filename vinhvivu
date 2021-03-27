@@ -294,95 +294,82 @@ https://bom.to/cocasctvpth_2
 
 #----------------------------------------------------------------------------- VTVcab-------------------------------------------------------------#
 
-#EXTINF:0 tvg-id="vtvcab1_giai_tri_tv" group-title="💫| VTVcab" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Vie_Gi%E1%BA%A3i_Tr%C3%AD.png/revision/latest/scale-to-width-down/340?cb=20191126050457",VTVCab1| Vie Giải Trí
-http://quocthai.duckdns.org:18886/rtp/232.84.1.143:8832
-
-#EXTINF:0 tvg-id="vtvcab2_phim_viet" group-title="💫| VTVcab" tvg-logo="https://vtvcabtaidanang.com/wp-content/uploads/2017/05/vtvcab2-phim-vi%E1%BB%87t-326x245.png",VTVcab2| Phim Việt
-http://quocthai.duckdns.org:18886/rtp/232.84.1.168:8982
-
-#EXTINF:0 tvg-id="vtvcab3_the_thao_tv_sd" group-title="💫| VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/597836-thethaotv.png",VTVcab3| Thể Thao TV
-http://gg.gg/cocacab3
-
-#EXTINF:0 tvg-id="vtvcab4" group-title="💫| VTVcab" tvg-logo="https://mytv.com.vn/upload/channel/194.png",VTVcab4| Văn Hóa
+#EXTINF:0 tvg-id="vtvcab1_giai_tri_tv"group-title="VTVCab" tvg-logo="https://i.ibb.co/NYSr7Kn/VTVCAB1-BEARTV.png",VTVCab1 - Vie Giải Trí
+#http://quocthai.duckdns.org:18886/rtp/232.84.1.143:8832
+http://113.180.80.177:8080/vieonhthanh.php?id=ef9064fa-b31a-4bed-b19b-183752191248
+#EXTINF:0 tvg-id="VTVcab 2 - Phim Việt"group-title="VTVCab" tvg-logo="https://i.ibb.co/XxJL4BC/VTVCAB2-BEARTV.png",VTVCab2 - Phim Việt
+#http://quocthai.duckdns.org:18886/rtp/232.84.1.168:8982
+http://s3.nihontv.net:21585/vtvcab2/index.m3u8
+#EXTINF:0 tvg-id="vtvcab3_the_thao_tv_sd"group-title="VTVCab" tvg-logo="https://i.ibb.co/F4YB7wH/thethaotv-BEARTV.png" ,VTVCab3 - Thể Thao TV
+http://202.60.106.14:21585/vtvcab3/mono.m3u8
+#http://s4.nihontv.net:21585/vtvcab3/index.m3u8
+#EXTINF:0 tvg-id="VTVcab 4 - Văn hóa"group-title="VTVCab" tvg-logo="https://i.ibb.co/vv14vLN/VTVCAB4-BEARTV.png" ,VTVCab4
 http://quocthai.duckdns.org:18886/rtp/232.84.2.190:10924
-
-#EXTINF:0 tvg-id="vtvcab5" group-title="💫| VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/11/E_channel_logo_2013_alt.png/revision/latest/scale-to-width-down/340?cb=20201011093915&path-prefix=vi",VTVcab5| E channel
-https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab5_SD.smil/chunklist_w88390933_b2692000.m3u8
-
-#EXTINF:0 tvg-id="vtvcab6_haytv" group-title="💫| VTVcab" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/VTVCab_6_-_HayTV_logo_%282014-present%29.png/revision/latest/scale-to-width-down/340?cb=20191115095505",VTVcab6| Hay TV
-http://quocthai.duckdns.org:18886/rtp/232.84.1.220:9294
-
-#EXTINF:0 tvg-id="vtvcab10" group-title="💫| VTVcab" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/VTVCab_7.png/revision/latest/scale-to-width-down/340?cb=20200509123139",VTVcab7| O2 TV
-http://quocthai.duckdns.org:18886/rtp/232.84.1.205:9204
-
-#EXTINF:0 tvg-id="vtvcab8_bibi" group-title="💫| VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/97/BiBi_logo.png/revision/latest/scale-to-width-down/340?cb=20200611122915&path-prefix=vi",VTVcab8| Bibi TV
-http://quocthai.duckdns.org:18886/rtp/232.84.1.206:9210
-
-#EXTINF:0 tvg-id="vtvcab9_infotv" group-title="💫| VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/bf/S_Info_TV_2015.png/revision/latest/scale-to-width-down/340?cb=20201011014319&path-prefix=vi",VTVcab9| Info TV
-http://quocthai.duckdns.org:18886/rtp/232.84.2.191:10930
-
-#EXTINF:0 tvg-id="vtvcab7_vie_dramas" group-title="💫| VTVcab" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/VTVCab_7_old_and_VTVCab_10_-_Vie_Dramas_logo.png/revision/latest/scale-to-width-down/340?cb=20191010055853",VTVCab10| Vie Dramas
-http://quocthai.duckdns.org:18886/rtp/232.84.1.26:8130
-
-#EXTINF:0 tvg-id="vtvcab12_style_tv" group-title="💫| VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/53/Style_TV_VCTV12.png/revision/latest/scale-to-width-down/340?cb=20201019015535&path-prefix=vi",VTVcab12| Style TV
+#EXTINF:0 tvg-id="vtvcab5_e_channel"group-title="VTVCab" tvg-logo="https://i.ibb.co/5FPVFRh/VTVCAB5-BEARTV.png",VTVCab5 - E Channel
+#https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab5_SD_new1.smil/chunklist_w811695802_b2692000.m3u8?uid=w224d444x2c474z584x506&t_end=o4i5u5h514442354v27484v2w233z2&p_form=s335l4x4f3&s_count=s335l4x4f3e5y2&mytokenstarttime=1612663459&mytokenendtime=1612706959&mytokenhash=kmPuzDoknHBVplFxoMEAj4o6iMpQfkbbcO8GMkEQfrY=
+http://s3.nihontv.net:21585/vtvcab5/index.m3u8
+#EXTINF:0 tvg-id="vtvcab6_haytv"group-title="VTVCab" tvg-logo="https://i.ibb.co/ZBZTBmk/VTVCAB6-BEARTV.png",VTVCab6 - HayTV
+#http://quocthai.duckdns.org:18886/rtp/232.84.1.220:9294
+http://s3.nihontv.net:21585/vtvcab6/index.m3u8
+#EXTINF:0 tvg-id="vtvcab10"group-title="VTVCab" tvg-logo="https://i.ibb.co/mTMBp7M/VTVCAB7-BEARTV.png",VTVCab7
+#http://quocthai.duckdns.org:18886/rtp/232.84.1.26:8130
+http://s3.nihontv.net:21585/vtvcab7/index.m3u8
+#EXTINF:0 tvg-id="vtvcab8_bibi"group-title="VTVCab" tvg-logo="https://i.ibb.co/qDfmNHG/VTVCAB8-BEARTV.png",VTVCab 8 - BIBI
+#http://quocthai.duckdns.org:18886/rtp/232.84.1.206:9210
+http://s3.nihontv.net:21585/vtvcab8/index.m3u8
+#EXTINF:0 tvg-id="vtvcab9_infotv"group-title="VTVCab" tvg-logo="https://i.ibb.co/m008TNS/VTVCAB9-BEARTV.png",VTVCab9 - Info TV
+#http://quocthai.duckdns.org:18886/rtp/232.84.2.191:10930
+http://s3.nihontv.net:21585/vtvcab9/index.m3u8
+#EXTINF:0 tvg-id="vtvcab7_vie_dramas"group-title="VTVCab" tvg-logo="https://i.ibb.co/T84Wq4j/VTVCAB10-BEARTV.png",VTVCab10 - Vie Dramas 
+#http://quocthai.duckdns.org:18886/rtp/232.84.1.205:9204
+http://113.180.80.177:8080/vieonhthanh.php?id=f01e8ee5-0fe5-4edd-8f69-57bb3ae49e2a
+#EXTINF:0 tvg-id="vtvcab12_style_tv"group-title="VTVCab" tvg-logo="https://i.ibb.co/JHSSN5c/VTVCAB12-BEARTV.png",VTVCab12 - StyleTV
 http://quocthai.duckdns.org:18886/rtp/232.84.1.244:9438
-
-#EXTINF:0 tvg-id="" group-title="💫| VTVcab" tvg-logo="http://vnplay.tv/dist/logo/17.png?ver=6",VTVCab13| Huyndai Shopping
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://livecdn.fptplay.net/sda/vtvhomeshopping_1000.stream/chunklist.m3u8
-
-#EXTINF:0 tvg-id="vtvcab15" group-title="💫| VTVcab" tvg-logo="https://yeah1group.com/img/logo/umchannel-51f67f8d87d65fd2e5a78496497af6bc.png?vsn=d",VTVcab15| UM channel
+#EXTINF:0 tvg-id="vtvcab15hd"group-title="VTVCab" tvg-logo="https://i.ibb.co/LnN87hc/VTVCAB15-BEARTV.png",VTVCab15
 http://quocthai.duckdns.org:18886/rtp/232.84.2.192:10936
-
-#EXTINF:-1 tvg-id="vtvcab16_bong_da_tv_hd" group-title="💫| VTVcab" tvg-logo="https://i.ibb.co/165qscC/VTVCAB16-BEARTV.png", VTVCab 16 - Bóng Đá TV
-https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab16_SD.smil/chunklist_w913268349_b2692000.m3u8?uid=w224d444x2c474z584x506&t_end=o4i5u5h514442354v27484v2w233z2&p_form=s335l4x4f3&s_count=s335l4x4f3e5y2&mytokenstarttime=1612663459&mytokenendtime=1612706959&mytokenhash=kmPuzDoknHBVplFxoMEAj4o6iMpQfkbbcO8GMkEQfrY=
-
-#EXTINF:0 tvg-id="vtvcab17_yeah1_tv" group-title="💫| VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/3/34/Yeah1TV.png",VTVcab17| Yeah1 TV
+#EXTINF:-1 tvg-id="vtvcab16_bong_da_tv_hd" group-title="VTVCab" tvg-logo="https://i.ibb.co/165qscC/VTVCAB16-BEARTV.png", VTVCab 16 - Bóng Đá TV
+http://hthanhmedia:kocopyshare@ht-sporttv.duckdns.org:9981/stream/channelid/1491391340
+#EXTINF:0 tvg-id="vtvcab17_yeah1_tv"group-title="VTVCab" tvg-logo="https://i.ibb.co/1zqJmX9/VTVCAB17-BEARTV.png",VTVCab17 - Yeah1! TV
 http://quocthai.duckdns.org:18886/rtp/232.84.1.217:9276
-#EXTINF:0 tvg-id="vtvcab18_tin_tuc_the_thao_hd" group-title="💫| VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d3/Th%E1%BB%83_thao_Tin_t%E1%BB%A9c_HD_%282016-present%29.png/revision/latest/scale-to-width-down/340?cb=20201011095032&path-prefix=vi",VTVcab18| Tin Tức Thể Thao
-http://quocthai.duckdns.org:18886/rtp/232.84.2.193:10942
-#EXTINF:0 tvg-id="vtvcab19_kenh_phim" group-title="💫| VTVcab" tvg-logo="https://1.bp.blogspot.com/-NLX47Jq3rtw/WZEncunWT0I/AAAAAAAAAio/Hvwz7VsJn5sApH_n-LXE6aW1WuY47DqrACEwYBhgL/s200/VTVcab19-film-tv.png",VTVcab19| Film TV
+#EXTINF:-1 tvg-id="vtvcab18_tin_tuc_the_thao_hd" group-title="VTVCab" tvg-logo="https://i.ibb.co/FY5dpJm/VTVCAB18-BEARTV.png" , VTVCab18 - Tin Tức Thể Thao
+http://14.161.172.232:8889/rtp/232.84.2.193:10942
+#EXTINF:0 tvg-id="vtvcab19_kenh_phim"group-title="VTVCab" tvg-logo="https://i.ibb.co/8c2C9wQ/VTVCAB19-BEARTV.png",VTVCab19 - Film TV
 http://quocthai.duckdns.org:18886/rtp/232.84.1.169:8988
-#EXTINF:0 tvg-id="vtvcab20_v_family" group-title="💫| VTVcab" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/VFamily_%28VTVCab_20%29_logo.png/revision/latest/top-crop/width/300/height/300?cb=20191128010437",VTVcab20| V Family
+#EXTINF:0 tvg-id="VTVcab 20 - V Family"group-title="VTVCab" tvg-logo="https://i.ibb.co/8jjVmFf/VTVCAB20-BEARTV.png",VTVCab20 - V Family
 http://quocthai.duckdns.org:18886/rtp/232.84.1.245:10344
-#EXTINF:0 tvg-id="vtvcab23_golf_hd" group-title="💫| VTVcab" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/Th%E1%BB%83_thao_TV_HD_Golf_new_logo.png/revision/latest/scale-to-width-down/340?cb=20191114130942",VTVcab23| Golf TV
-http://quocthai.duckdns.org:18886/rtp/232.84.2.246:10876
-
+#EXTINF:0 tvg-id="vtvcab23_golf_hd"group-title="VTVCab" tvg-logo="https://i.ibb.co/NZYJfWj/Golf-TV-BEARTV.png",VTVCab23 - GOLF TV
+http://14.161.172.232:8889/rtp/232.84.2.246:10876
 #--------------------------------------------------------------------VTC-------------------------------------------------------------------------------#
 
-#EXTINF:0 tvg-id="vtc1" group-title="📺| VTC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/VTC1_logo_2018.svg/1200px-VTC1_logo_2018.svg.png" tvg-chno="11",VTC1| Tổng Hợp
-https://vtc130121.cdn.vnns.io/VTC1_abr/vtc130121/VTC1_abr_1080p/chunks.m3u8
-#EXTINF:0 tvg-id="vtc2" group-title="📺| VTC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/VTC2_logo_2018.svg/1200px-VTC2_logo_2018.svg.png" tvg-chno="12",VTC2| Công Nghệ
-https://vtc130121.cdn.vnns.io/VTC2_abr/vtc130121/VTC2_abr_1080p/chunks.m3u8
-#EXTINF:0 tvg-id="vtc3" group-title="📺| VTC" tvg-logo="https://i.ibb.co/zs1CxVj/VTC3-SPORTS-BEARTV.pnghttp://onsports.vn/logo16x9.png" tvg-chno="13",VTC3| ON Sport
-https://vtc130121.cdn.vnns.io/VTC3_abr/vtc130121/VTC3_abr_1080p/chunks.m3u8
-#EXTINF:0 tvg-id="vtc4_yeah1_family" group-title="📺| VTC" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9c/Logo_Yeah1_Family_from_2011_to_2012.png/revision/latest?cb=20200621234339&path-prefix=vi" tvg-chno="14",VTC4| Yeah1 Family
-https://vtc130121.cdn.vnns.io/VTC4_abr/vtc130121/VTC4_abr_1080p/chunks.m3u8
-#EXTINF:0 tvg-id="vtc5" group-title="📺| VTC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/VTC5_2018.png/revision/latest/scale-to-width-down/340?cb=20200821143114" tvg-chno="15",VTC5| tvBlue
-https://vtc130121.cdn.vnns.io/VTC5_abr/vtc130121/VTC5_abr_1080p/chunks.m3u8
-#EXTINF:0 tvg-id="vtc6" group-title="📺| VTC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/VTC6_logo_2018.svg/1024px-VTC6_logo_2018.svg.png" tvg-chno="16",VTC6| Phim Truyện
-https://vtc130121.cdn.vnns.io/VTC6_abr/vtc130121/VTC6_abr_1080p/chunks.m3u8
-#EXTINF:0 tvg-id="vtc7_today_tv" group-title="📺| VTC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/TodayTV_%28VTC7%29.png/revision/latest/top-crop/width/220/height/220?cb=20200124081231" tvg-chno="17",VTC7| Today TV
-https://vtc130121.cdn.vnns.io/VTC7_abr/vtc130121/VTC7_abr_1080p/chunks.m3u8
-#EXTINF:0 tvg-id="vtc8" group-title="📺| VTC" tvg-logo="https://i.imgur.com/FVM7co8.jpg" tvg-chno="18",VTC8| View TV
-#EXTVLCOPT:http-user-agent="CoocaaTV"
+#EXTINF:0 tvg-id="VTC1-ClipTV" tvg-name="VTC1-Cliptv" group-title="VTC" tvg-logo="https://i.ibb.co/mH4XCCF/VTC1-BEARTV.png",VTC1 HD
+https://livecdn.fptplay.net/sdb/vtc1_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 tvg-id="VTC2-ClipTV" group-title="VTC" tvg-logo="https://i.ibb.co/7WwzKSj/VTC2-BEARTV.png",VTC2 HD
+https://livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 tvg-id="VTC3 HD" group-title="VTC" tvg-logo="https://i.ibb.co/zs1CxVj/VTC3-SPORTS-BEARTV.png",VTC3 HD - ON Sports
+https://livecdn.fptplay.net/hda/vtc3hd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 tvg-id="vtc4_yeah1_family" tvg-name="VTC4-Cliptv" group-title="VTC" tvg-logo="https://i.ibb.co/v4Hrc3p/VTC4-BEARTV.png",VTC4 HD
+https://livecdn.fptplay.net/sdc/vtc4_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="VTC5-ClipTV" tvg-name="VTC5-Cliptv" group-title="VTC" tvg-logo="https://i.ibb.co/TmyXFvP/VTC5-BEARTV.jpg",VTC5 HD
+https://livecdn.fptplay.net/sdb/vtc5_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="VTC6-ClipTV" tvg-name="VTC6-Cliptv" group-title="VTC" tvg-logo="https://i.ibb.co/jHzdRKS/VTC6-BEARTV.png",VTC6 HD
+https://livecdn.fptplay.net/sdb/vtc6_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="vtc7_today_tv" tvg-name="VTC7-Cliptv" group-title="VTC" tvg-logo="https://i.ibb.co/L8T5MGF/VTC7-BEARTV.png",VTC7 HD  - todayTV
+https://livecdn.fptplay.net/sdb/todaytv_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="VTC" tvg-name="VTC8-Cliptv" group-title="VTC" tvg-logo="https://i.ibb.co/8DTV4TY/VTC8-BEARTV.jpg",VTC8 HD
 https://livecdn.fptplay.net/sdb/vtc8_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 tvg-id="vtc9_lets_viet" group-title="📺| VTC" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4b/Let%27s_Vi%E1%BB%87t_-_VTC9.png/revision/latest/scale-to-width-down/340?cb=20180214153259&path-prefix=vi" tvg-chno="19",VTC9| Let's Việt
-https://vtc130121.cdn.vnns.io/VTC9_abr/vtc130121/VTC9_abr_1080p/chunks.m3u8
-#EXTINF:0 tvg-id="vtc10" group-title="📺| VTC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/VTC10_logo_2018.svg/1200px-VTC10_logo_2018.svg.png" tvg-chno="110",VTC10| Net Việt
-https://vtc130121.cdn.vnns.io/VTC10_abr/vtc130121/VTC10_abr_1080p/chunks.m3u8
-#EXTINF:0 tvg-id="vtc11_kids_tv" group-title="📺| VTC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/VTC11_logo_2018.svg/1200px-VTC11_logo_2018.svg.png" tvg-chno="111",VTC11 Kids TV
-https://vtc130121.cdn.vnns.io/VTC11_abr/vtc130121/VTC11_abr_1080p/chunks.m3u8
-#EXTINF:0 tvg-id="vtc12" group-title="📺| VTC" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/db/VTC12_Grey.png/revision/latest/scale-to-width-down/340?cb=20200904024746&path-prefix=vi" tvg-chno="112",VTC12| Kênh Hàn
-https://vtc130121.cdn.vnns.io/VTC12_abr/vtc130121/VTC12_abr_1080p/chunks.m3u8
-#EXTINF:0 tvg-id="vtc13" group-title="📺| VTC" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/85/Itv_vtc13_logo.png/revision/latest/scale-to-width-down/340?cb=20201029110646&path-prefix=vi" tvg-chno="113",VTC13| iTV
-https://vtc130121.cdn.vnns.io/VTC13_abr/vtc130121/VTC13_abr_1080p/chunks.m3u8
-#EXTINF:0 #EXTINF:0 tvg-id="vtc13" group-title="📺| VTC" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c5/VTC_4K.png/revision/latest/scale-to-width-down/340?cb=20201019050227&path-prefix=vi",VTC13 | 4K
-http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/chunklist_w82265077_b4096000_sleng.m3u8
-#EXTINF:0 tvg-id="vtc14" group-title="📺| VTC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/VTC14_logo_2018.svg/1020px-VTC14_logo_2018.svg.png",VTC14| News
-https://vtc130121.cdn.vnns.io/VTC14_abr/vtc130121/VTC14_abr_1080p/chunks.m3u8
-#EXTINF:0 tvg-id="vtc16" group-title="📺| VTC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/3NTV_%28VTC16_old%29_logo.png/revision/latest/top-crop/width/220/height/220?cb=20191011034206" tvg-chno="116",VTC16| 3N TV
-https://vtc130121.cdn.vnns.io/VTC16_abr/vtc130121/VTC16_abr_1080p/chunks.m3u8
+#EXTINF:-1 tvg-id="vtc9_lets_viet" tvg-name="VTC9-Cliptv" group-title="VTC" tvg-logo="https://i.ibb.co/60nyjgj/VTC9-BEARTV.png",VTC9 HD
+https://livecdn.fptplay.net/sdb/vtc9_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="VTC" group-title="VTC" tvg-logo="https://i.ibb.co/qdFVPyW/VTC10-BEARTV.png",VTC10 HD
+https://livecdn.fptplay.net/sdb/vtc10_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="vtc11_kids_tv" tvg-name="VTC11-ClipTV" group-title="VTC" tvg-logo="https://i.ibb.co/ySrQw6C/VTC11-BEARTV.png",VTC11 HD
+https://livecdn.fptplay.net/sdb/vtc11_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="vtc12" tvg-name="VTC12-ClipTV" group-title="VTC" tvg-logo="https://i.ibb.co/L8KFv8g/VTC12-BEARTV.jpg",VTC12 HD - VTCK
+https://livecdn.fptplay.net/sdb/vtc12_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="VTC"group-title="VTC" tvg-logo="https://i.ibb.co/G5K237j/VTC13-BEARTV.png",VTC13 4K ( Thử Nghiệm )
+http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="VTC" tvg-name="VTC14-Cliptv" group-title="VTC" tvg-logo="https://i.ibb.co/fSHncwL/VTC14-BEARTV.png",VTC14 HD
+https://livecdn.fptplay.net/sdc/vtc14_2000.stream/chunklist.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE1ODI1MTU3MTcsICJyZXNvdXJjZV9pZCI6ICJ2dGMxNF8yMDAwIiwgInBhcnRuZXJfaWQiOiAiNTcxM2JlOGMwN2U0MmVkNGI5MTYzODhlIiwgInRva2VuIjogIjRmZDM1YmZjYjFmYThmMjg2NGQ5MTQwYjA2M2YxZGM0IiwgInZhbGlkX21pbnV0ZXMiOiAxNTgyNjAyMTE3LCAicm1pcCI6ICIyNy43OS4yMDAuMTYzIn0=
+#EXTINF:-1 tvg-id="VTC16-ClipTV" tvg-name="VTC16-ClipTV" group-title="VTC" tvg-logo="https://i.ibb.co/WfHrTR3/VTC16-BEARTV.jpg",VTC16 HD
 
 #-------------------------------------------------------------------- HTV---------------------------------------------------------------------#
 
