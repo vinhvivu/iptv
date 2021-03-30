@@ -136,96 +136,6 @@ http://gg.gg/cocahbored
 http://gg.gg/cocahbomax
 
 
-#===========================================================================Quốc tế 🌍 🇳 🇪 🇹==========================================================#
-
-
-
-#EXTINF:0 tvg-id="foxhd" group-title="🌍 🇳 🇪 🇹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/FOX_HD.svg/1280px-FOX_HD.svg.png",FOX
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
-#EXTINF:0 tvg-id="foxlifehd" group-title="🌍 🇳 🇪 🇹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Fox-Life.png",FOX Life
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXLIFE-SD-720p/chunks.m3u8
-#EXTINF:0 tvg-id="fox_movies" group-title="🌍 🇳 🇪 🇹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1280px-Fox_Movies_%28Asia%29_logo.svg.png",FOX Movies
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
-#EXTINF:0 tvg-id="foxmovieshd" group-title="🌍 🇳 🇪 🇹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Fox_Family_Movies_logo.svg/1200px-Fox_Family_Movies_logo.svg.png",FOX Family Movies
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
-#EXTINF:0 group-title="🌍 🇳 🇪 🇹", tvg-logo="https://iconape.com/wp-content/files/ea/122167/png/Fox_Action_Movies_logo.png", FOX Action Movies
-#EXTINF:0  tvg-id="asian_food_channel" group-title="🌍 🇳 🇪 🇹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/1200px-Asian_Food_Network.svg.png",Asian Food Channel
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8
-#EXTINF:0 tvg-id="canimax" group-title="🌍 🇳 🇪 🇹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png",Animax
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://livecdn.fptplay.net/hda3/animaxport_2000.stream/chunklist_b250000.m3u8
-#EXTINF:0  tvg-id="animalhd" group-title="🌍 🇳 🇪 🇹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png",Animal Planet
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-http://livecdn.fptplay.net/qnetlive/animalplanet_2000.stream/chunklist.m3u8
-#EXTINF:0 tvg-id="axnhd" group-title="🌍 🇳 🇪 🇹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png",AXN
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
-#EXTINF:0 tvg-id="channel_v" group-title="🌍 🇳 🇪 🇹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/892px-Channel_V_Logo.svg.png",Channel [V]
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/chunks.m3u8
-#EXTINF:0  tvg-id="fashion_tv" group-title="🌍 🇳 🇪 🇹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png",Fashion TV
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://livecdn.fptplay.net/qnetlive/fashiontvhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0  tvg-id="fashion_tv" group-title="🌍 🇳 🇪 🇹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png",Fashion TV Destination
-http://36.37.252.114:888/Apple/OneTV-059/playlist.m3u8
-#EXTINF:0  tvg-id="arirang" group-title="🌍 🇳 🇪 🇹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png",Ariang
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://livecdn.fptplay.net/world/arirang_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 tvg-id="kix_hd" group-title="🌍 🇳 🇪 🇹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png",KIX
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 tvg-id="kbs_world" group-title="🌍 🇳 🇪 🇹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/1280px-KBS_World_%282009%29.svg.png",KBS World
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-http://livecdn.fptplay.net/sdb/kbs_2000.stream/chunklist_b2500000.m3u8
-#EXTINF:0 tvg-id="nhk_world" group-title="🌍 🇳 🇪 🇹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png",NHK World
-https://livecdn.fptplay.net/world/nhkworld_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 roup-title="🌍 🇳 🇪 🇹" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ABC_Australia_logo.svg/1200px-ABC_Australia_logo.svg.png",ABC Australia
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-http://livecdn.fptplay.net/qnetlive/australiaplus_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 group-title="🌍 🇳 🇪 🇹" tvg-logo="https://seeklogo.com/images/T/tv5-logo-D6C5E4DA52-seeklogo.com.png",TV5 Monde Asie
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-http://livecdn.fptplay.net/world/tv5_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 group-title="🌍 🇳 🇪 🇹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Channel_NewsAsia_logo_%28shape_only%29.svg/220px-Channel_NewsAsia_logo_%28shape_only%29.svg.png",Channel New Asia
-http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:0 tvg-id="tlc" group-title="🌍 🇳 🇪 🇹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TLC-Logo_2016.png/800px-TLC-Logo_2016.png",TLC
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-http://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0  tvg-id="outdoor_channel" group-title="🌍 🇳 🇪 🇹" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/Outdoor_Channel_2017.png",Outdoor Channel
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-http://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0  tvg-id="paramount_network" group-title="🌍 🇳 🇪 🇹" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png",Paramount
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
-#EXTINF:0 group-title="🌍 🇳 🇪 🇹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png", HGTV
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/564
-#EXTINF:0 group-title="🌍 🇳 🇪 🇹" tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png",Nasa TV
-http://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-#EXTINF:0 group-title="🌍 🇳 🇪 🇹" tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png",Red Bull
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-#EXTINF:0  tvg-id="bbc_earth" group-title="🌍 🇳 🇪 🇹", tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-http://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0  tvg-id="bbc_lifestyle" group-title="🌍 🇳 🇪 🇹", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/BBC_Lifestyle2.svg/1200px-BBC_Lifestyle2.svg.png",BBC Lifestyle
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-http://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist_b2500000.m3u8
-#EXTINF:0  tvg-id="discoveryhd" group-title="🌍 🇳 🇪 🇹", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/1200px-Discovery_Channel_-_Logo_2019.svg.png",Discovery Channel
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DISCOVERY-HD-1080p/playlist.m3u8
-#EXTINF:0  tvg-id="discovery_asia" group-title="🌍 🇳 🇪 🇹", tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/Discovery-asia.png/revision/latest/scale-to-width-down/340?cb=20180716153220",Discovery Asia
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-http://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0  tvg-id="national_geographic" group-title="🌍 🇳 🇪 🇹", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1024px-Natgeologo.svg.png",National Geographic
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-http://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0  tvg-id="national_geographic_wild" group-title="🌍 🇳 🇪 🇹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png",National Geographic WILD
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
-#EXTINF:0  tvg-id="blue_ant_entertainment" group-title="🌍 🇳 🇪 🇹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png",Blue Ant Entertainment
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-http://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0  tvg-id="blue_ant_extreme" group-title="🌍 🇳 🇪 🇹", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png",Blue Ant Extreme
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-http://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:0  tvg-id="cinema_world" group-title="🌍 🇳 🇪 🇹" tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/11/CMW-gold-logo-for-website-loading.png",Cinema World
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CINEWORLD-SD-720p/chunks.m3u8
-#EXTINF:0  tvg-id="warner_tv_hd" group-title="🌍 🇳 🇪 🇹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros_logo.svg/737px-Warner_Bros_logo.svg.png",Warner Bros
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/WANNERTV-SD-720p/chunks.m3u8
 
 
 #-------------------------------------------------------------- Tôi yêu Việt Nam-------------------------------------------------------------------------#
@@ -471,4 +381,90 @@ https://livecdn.fptplay.net/sda/phutho_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 group-title="🏞️| Quê hương" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cc/STV_S%C6%A1n_La_c%C5%A9.png/revision/latest/scale-to-width-down/340?cb=20201020014854&path-prefix=vi",❤️|  Sơn La
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://livecdn.fptplay.net/sdc/sonla_hls.smil/chunklist_b2500000.m3u8
+
+#===========================================================================Quốc tế 🌍 🇳 🇪 🇹==========================================================#
+
+
+
+#EXTINF:0 tvg-id="foxhd" group-title="🌍 🇳 🇪 🇹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/FOX_HD.svg/1280px-FOX_HD.svg.png",FOX
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
+#EXTINF:0 tvg-id="foxlifehd" group-title="🌍 🇳 🇪 🇹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Fox-Life.png",FOX Life
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXLIFE-SD-720p/chunks.m3u8
+#EXTINF:0 tvg-id="fox_movies" group-title="🌍 🇳 🇪 🇹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1280px-Fox_Movies_%28Asia%29_logo.svg.png",FOX Movies
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
+#EXTINF:0 tvg-id="foxmovieshd" group-title="🌍 🇳 🇪 🇹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Fox_Family_Movies_logo.svg/1200px-Fox_Family_Movies_logo.svg.png",FOX Family Movies
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
+#EXTINF:0 group-title="🌍 🇳 🇪 🇹", tvg-logo="https://iconape.com/wp-content/files/ea/122167/png/Fox_Action_Movies_logo.png", FOX Action Movies
+#EXTINF:0  tvg-id="asian_food_channel" group-title="🌍 🇳 🇪 🇹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/1200px-Asian_Food_Network.svg.png",Asian Food Channel
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8
+#EXTINF:0 tvg-id="canimax" group-title="🌍 🇳 🇪 🇹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png",Animax
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://livecdn.fptplay.net/hda3/animaxport_2000.stream/chunklist_b250000.m3u8
+#EXTINF:0  tvg-id="animalhd" group-title="🌍 🇳 🇪 🇹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png",Animal Planet
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+http://livecdn.fptplay.net/qnetlive/animalplanet_2000.stream/chunklist.m3u8
+#EXTINF:0 tvg-id="axnhd" group-title="🌍 🇳 🇪 🇹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png",AXN
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
+#EXTINF:0 tvg-id="channel_v" group-title="🌍 🇳 🇪 🇹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/892px-Channel_V_Logo.svg.png",Channel [V]
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/chunks.m3u8
+#EXTINF:0  tvg-id="fashion_tv" group-title="🌍 🇳 🇪 🇹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png",Fashion TV
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://livecdn.fptplay.net/qnetlive/fashiontvhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0  tvg-id="arirang" group-title="🌍 🇳 🇪 🇹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png",Ariang
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://livecdn.fptplay.net/world/arirang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 tvg-id="kix_hd" group-title="🌍 🇳 🇪 🇹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png",KIX
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 tvg-id="kbs_world" group-title="🌍 🇳 🇪 🇹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/1280px-KBS_World_%282009%29.svg.png",KBS World
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+http://livecdn.fptplay.net/sdb/kbs_2000.stream/chunklist_b2500000.m3u8
+#EXTINF:0 tvg-id="nhk_world" group-title="🌍 🇳 🇪 🇹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png",NHK World
+https://livecdn.fptplay.net/world/nhkworld_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 roup-title="🌍 🇳 🇪 🇹" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ABC_Australia_logo.svg/1200px-ABC_Australia_logo.svg.png",ABC Australia
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+http://livecdn.fptplay.net/qnetlive/australiaplus_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 group-title="🌍 🇳 🇪 🇹" tvg-logo="https://seeklogo.com/images/T/tv5-logo-D6C5E4DA52-seeklogo.com.png",TV5 Monde Asie
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+http://livecdn.fptplay.net/world/tv5_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 group-title="🌍 🇳 🇪 🇹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Channel_NewsAsia_logo_%28shape_only%29.svg/220px-Channel_NewsAsia_logo_%28shape_only%29.svg.png",Channel New Asia
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:0 tvg-id="tlc" group-title="🌍 🇳 🇪 🇹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TLC-Logo_2016.png/800px-TLC-Logo_2016.png",TLC
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+http://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0  tvg-id="outdoor_channel" group-title="🌍 🇳 🇪 🇹" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/Outdoor_Channel_2017.png",Outdoor Channel
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+http://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 group-title="🌍 🇳 🇪 🇹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png", HGTV
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/564
+#EXTINF:0 group-title="🌍 🇳 🇪 🇹" tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png",Nasa TV
+http://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:0  tvg-id="bbc_earth" group-title="🌍 🇳 🇪 🇹", tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+http://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0  tvg-id="bbc_lifestyle" group-title="🌍 🇳 🇪 🇹", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/BBC_Lifestyle2.svg/1200px-BBC_Lifestyle2.svg.png",BBC Lifestyle
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+http://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist_b2500000.m3u8
+#EXTINF:0  tvg-id="discoveryhd" group-title="🌍 🇳 🇪 🇹", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/1200px-Discovery_Channel_-_Logo_2019.svg.png",Discovery Channel
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DISCOVERY-HD-1080p/playlist.m3u8
+#EXTINF:0  tvg-id="discovery_asia" group-title="🌍 🇳 🇪 🇹", tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/Discovery-asia.png/revision/latest/scale-to-width-down/340?cb=20180716153220",Discovery Asia
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+http://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0  tvg-id="national_geographic" group-title="🌍 🇳 🇪 🇹", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1024px-Natgeologo.svg.png",National Geographic
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+http://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0  tvg-id="national_geographic_wild" group-title="🌍 🇳 🇪 🇹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png",National Geographic WILD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
+#EXTINF:0  tvg-id="blue_ant_entertainment" group-title="🌍 🇳 🇪 🇹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png",Blue Ant Entertainment
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+http://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0  tvg-id="blue_ant_extreme" group-title="🌍 🇳 🇪 🇹", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png",Blue Ant Extreme
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+http://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0  tvg-id="cinema_world" group-title="🌍 🇳 🇪 🇹" tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/11/CMW-gold-logo-for-website-loading.png",Cinema World
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CINEWORLD-SD-720p/chunks.m3u8
+#EXTINF:0  tvg-id="warner_tv_hd" group-title="🌍 🇳 🇪 🇹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros_logo.svg/737px-Warner_Bros_logo.svg.png",Warner Bros
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/WANNERTV-SD-720p/chunks.m3u8
+
 
