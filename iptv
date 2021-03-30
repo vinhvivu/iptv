@@ -1,59 +1,39 @@
 #EXTM3U url-tvg="http://gg.gg/47shop_mytvepg" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
 #--------------------------------------------------------------- VTV---------------------------------------------------------------------------------#
 
-#EXTINF:0 tvg-id="vtv1hd" group-title="🌾| VTV ¹⁰⁸⁰" tvg-logo=https://i.pinimg.com/originals/cb/e2/7a/cbe27aaa234aa19ec8693b298b5718c6.png",VTV1 ¹⁰⁸⁰ᵖ
+#EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png" tvg-chno="1",VTV1
 #EXTVLCOPT:http-user-agent="CoocaaTV"
-#https://live-vthn.vieon.vn:443/vtc/live/hd_vtv1_test/TV_HD/hd_vtv1_test_1080p/chunks.m3u8
-#https://13djpjxkw.vtvgiaitri.vn/vtv01/vtv01@1080p.m3u8
-http://drfamaga5qliv.vcdn.cloud/vtv01/vtv01@1080p.m3u8
-
-#EXTINF:0 tvg-id="vtv2hd" group-title="🌾| VTV ¹⁰⁸⁰" tvg-logo="https://i.pinimg.com/originals/b6/01/e4/b601e4afaf3c5de11b93e6da11563f3b.png",VTV2 ¹⁰⁸⁰ᵖ
+http://livecdn.fptplay.net/hda/vtv1hd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/VTV2_logo_2013_final.svg/1200px-VTV2_logo_2013_final.svg.png" tvg-chno="2",VTV2
 #EXTVLCOPT:http-user-agent="CoocaaTV"
-#https://live-vthn.vieon.vn:443/vtc/live/hd_vtv2_test/TV_HD/hd_vtv2_test_1080p/chunks.m3u8
-#https://13djpjxkw.vtvgiaitri.vn/vtv02/vtv02@1080p.m3u8
-http://drfamaga5qliv.vcdn.cloud/vtv02/vtv02@1080p.m3u8
-
-#EXTINF:0 tvg-id="vtv3hd" group-title="🌾| VTV ¹⁰⁸⁰" tvg-logo="https://i.pinimg.com/originals/5a/46/e5/5a46e565ad086932e8afd4ac9393d60f.png",VTV3 ¹⁰⁸⁰ᵖ
+https://livecdn.fptplay.net/hda/vtv2_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1200px-VTV3_logo_2013_final.svg.png" tvg-chno="3",VTV3
 #EXTVLCOPT:http-user-agent="CoocaaTV"
-#https://live-vthn.vieon.vn:443/vtc/live/hd_vtv3_test/TV_HD/hd_vtv3_test_1080p/chunks.m3u8
-#https://13djpjxkw.vtvgiaitri.vn/vtv03/vtv03@1080p.m3u8
-http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8
-
-#EXTINF:0 tvg-id="vtv4hd" group-title="🌾| VTV ¹⁰⁸⁰" tvg-logo="https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv4.png?1544944575",VTV4 ¹⁰⁸⁰ᵖ
+http://livecdn.fptplay.net/hda/vtv3hd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/VTV4_logo_2013_final.svg/1200px-VTV4_logo_2013_final.svg.png" tvg-chno="4",VTV4
 #EXTVLCOPT:http-user-agent="CoocaaTV"
-#https://live-vthn.vieon.vn:443/vtc/live/hd_vtv4_test/TV_HD/hd_vtv4_test_1080p/chunks.m3u8
-#https://13djpjxkw.vtvgiaitri.vn/vtv04/vtv04@1080p.m3u8
-http://drfamaga5qliv.vcdn.cloud/vtv04/vtv04@1080p.m3u8
-
-#EXTINF:0 tvg-id="vtv5hd" group-title="🌾| VTV ¹⁰⁸⁰" tvg-logo="https://thethao99.com/wp-content/uploads/2020/09/vtv5-truc-tiep-bong-da-viet-nam.png",VTV5 ¹⁰⁸⁰ᵖ
+https://livecdn.fptplay.net/hda/vtv4_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1200px-VTV5_logo_2013_final.svg.png" tvg-chno="5",VTV5
 #EXTVLCOPT:http-user-agent="CoocaaTV"
-#https://live-vthn.vieon.vn:443/vtc/live/hd_vtv5_test/TV_HD/hd_vtv5_test_1080p/chunks.m3u8
-#https://13djpjxkw.vtvgiaitri.vn/vtv05/vtv05@1080p.m3u8
-http://drfamaga5qliv.vcdn.cloud/vtv05/vtv05@1080p.m3u8
-
-#EXTINF:0 tvg-id="vtv6hd" group-title="🌾| VTV ¹⁰⁸⁰" tvg-logo="https://i.pinimg.com/originals/65/f9/79/65f979c7a1e6c1c054c8edd152fe1216.png",VTV6 ¹⁰⁸⁰ᵖ
+http://livecdn.fptplay.net/hda/vtv5hd_2000.stream/chunklist.m3u8
+#EXTINF:0 tvg-id="" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1200px-VTV5_logo_2013_final.svg.png",VTV5| Tây Nam Bộ™
 #EXTVLCOPT:http-user-agent="CoocaaTV"
-#https://live-vthn.vieon.vn:443/vtc/live/hd_vtv6_test/TV_HD/hd_vtv6_test_1080p/chunks.m3u8?lic=HThanh&cre=CoocaaTV
-#https://13djpjxkw.vtvgiaitri.vn/vtv06/vtv06@1080p.m3u8
-http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8
-
-#EXTINF:0 tvg-id="vtv7hd" group-title="🌾| VTV ¹⁰⁸⁰" tvg-logo="https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv7.png?1544944934",VTV7 ¹⁰⁸⁰ᵖ
+https://vtvgolivesbd.vtvdigital.vn/08bb27b394bbebfff0ff0ff41517fc241602593234601/vtv5tnb.smil/chunklist_b1728000.m3u8
+#EXTINF:0 tvg-id="" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1200px-VTV5_logo_2013_final.svg.png",VTV5| Tây Nguyên
 #EXTVLCOPT:http-user-agent="CoocaaTV"
-#https://live-vthn.vieon.vn:443/vtc/live/hd_vtv7_test/TV_HD/hd_vtv7_test_1080p/chunks.m3u8
-#https://13djpjxkw.vtvgiaitri.vn/vtv07/vtv07@1080p.m3u8
-http://drfamaga5qliv.vcdn.cloud/vtv07/vtv07@1080p.m3u8
-
-#EXTINF:0 tvg-id="vtv8hd" group-title="🌾| VTV ¹⁰⁸⁰" tvg-logo="https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv8.png?1544945092",VTV8 ¹⁰⁸⁰ᵖ
+https://vtvgolivesbd.vtvdigital.vn/aaccd401bbf4dc48a73895d3ca8c87331602594004638/vtv5tn.smil/chunklist_b1728000.m3u8
+#EXTINF:0 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/VTV6_logo.png" tvg-chno="6",VTV6
 #EXTVLCOPT:http-user-agent="CoocaaTV"
-#https://live-vthn.vieon.vn:443/vtc/live/hd_vtv8_test/TV_HD/hd_vtv8_test_1080p/chunks.m3u8
-#https://13djpjxkw.vtvgiaitri.vn/vtv08/vtv08@1080p.m3u8
-http://drfamaga5qliv.vcdn.cloud/vtv08/vtv08@1080p.m3u8
-
-#EXTINF:0 tvg-id="vtv9hd" group-title="🌾| VTV ¹⁰⁸⁰" tvg-logo="https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv9.png?1544945164",VTV9 ¹⁰⁸⁰ᵖ
+https://livecdn.fptplay.net/hda/vtv6hd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/VTV7Logo.png" tvg-chno="7",VTV7
 #EXTVLCOPT:http-user-agent="CoocaaTV"
-#https://live-vthn.vieon.vn:443/vtc/live/hd_vtv1_test/TV_HD/hd_vtv1_test_1080p/chunks.m3u8
-#https://13djpjxkw.vtvgiaitri.vn/vtv09/vtv09@1080p.m3u8
-http://drfamaga5qliv.vcdn.cloud/vtv09/vtv09@1080p.m3u8
+https://livecdn.fptplay.net/hda/vtv7hd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/VTV8_logo.png" tvg-chno="8",VTV8
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+http://subs-livecdn.fptplay.net/hda/vtv8hd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VTV9_logo_2013_final.svg/1200px-VTV9_logo_2013_final.svg.png",VTV9
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://livecdn.fptplay.net/hda/vtv9_hls.smil/chunklist_b2500000.m3u8
 #--------------------------------------------------------------------VTC-------------------------------------------------------------------------------#
 
 #EXTINF:0 tvg-id="VTC1-ClipTV" tvg-name="VTC1-Cliptv" group-title="VTC" tvg-logo="https://i.ibb.co/mH4XCCF/VTC1-BEARTV.png",VTC1 HD
