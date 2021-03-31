@@ -128,6 +128,8 @@ https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 http://live.thatslife.cf/tttvhdtt/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab16_bong_da_tv_hd" group-title="Thể thao" tvg-logo="https://i.ibb.co/165qscC/VTVCAB16-BEARTV.png", VTVCab 16 - Bóng Đá TV
 http://thatslife.cf:2086/bdtv/index.m3u8
+#EXTINF:0 tvg-id="vtvcab3_the_thao_tv_sd"group-title="VTVCab" tvg-logo="https://i.ibb.co/F4YB7wH/thethaotv-BEARTV.png" ,VTVCab3 - Thể Thao TV
+http://thatslife.cf:2086/tttv/index.m3u8
 
 
 
