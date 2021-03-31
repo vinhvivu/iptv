@@ -46,10 +46,7 @@ https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF:0 tvg-id="fox_sports3" group-title="Thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png",FOX Sport 3
 https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8 
-#EXTINF:-1 tvg-id="vtvcab18_tin_tuc_the_thao_hd" group-title="Thê thao" tvg-logo="https://i.ibb.co/FY5dpJm/VTVCAB18-BEARTV.png" , VTVCab18 - Tin Tức Thể Thao
-http://live.thatslife.cf/tttvhdtt/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab16_bong_da_tv_hd" group-title="Thể thao" tvg-logo="https://i.ibb.co/165qscC/VTVCAB16-BEARTV.png", VTVCab 16 - Bóng Đá TV
-http://thatslife.cf:2086/bdtv/index.m3u8
+
 
 
 
