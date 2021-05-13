@@ -51,8 +51,7 @@ https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w1915921234.m3u
 https://livecdn.fptplay.net/sdc/quocphongvnhd_hls.smil/chunklist_b2800000.m3u8
 
 #EXTINF:0 tvg-id="quoc_hoi_tv"  group-title="An Ninh TV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/1/17/KenhQuocHoi_logo.png",Quốc Hội TV
-http://36.37.252.114:888/Apple/OneTV-106/playlist.m3u8
-
+http://113.191.251.90:1935/live/quochoitvlive.stream_360p/chunklist_w2146056906.m3u8
 
 #=====================================================================K+ Thể thao===================================================================#
 
