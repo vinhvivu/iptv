@@ -1,8 +1,5 @@
 #EXTM3U url-tvg="http://onetv.click/schedule/epg.xml,https://cdn.jsdelivr.net/gh/BurningC4/Chinese-IPTV@master/guide.xml,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml,https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml"
-#Tham gia group Zalo để nhận thông báo: https://zalo.me/g/nheudn518
 
-#EXTINF:-1 group-title="ℹ| Info" tvg-logo="https://cdn.hqth.me/qrzalovthanh.png", Tham gia group Zalo VThanhTivi
-https://hqth.me/intro
 
 #-*-- Livestream -*--#
 
@@ -334,9 +331,7 @@ https://api.television4you.xyz/v1/getlink/sctv-tv24/sctv
 #EXTINF:-1 tvg-id="btv5hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/119.png", BTV5 HD
 https://vtsstr4.tv24.vn/live/btv5_HD_new.smil/playlist.m3u8
 
-#-*--Kẹo-*--#
-#EXTINF:-1 group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/vthanhtivi.png", Không nên trộm cắp
-https://hqth.me/khongnentromcap
+
 #EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+CINE HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://television4you.xyz/key.php?kid=2761754f661634d49560631198dd3122&key=3617e340b77a76fa1232f4f6360157fd
